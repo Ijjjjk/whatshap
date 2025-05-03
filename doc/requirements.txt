@@ -3,3 +3,4 @@ sphinx_rtd_theme
 sphinx_issues
 sphinx_better_subsection
 setuptools_scm
+setuptools>=78.1.1 # not directly required, pinned by Snyk to avoid a vulnerability
