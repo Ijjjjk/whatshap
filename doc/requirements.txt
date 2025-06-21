@@ -3,3 +3,4 @@ sphinx_rtd_theme
 sphinx_issues
 sphinx_better_subsection
 setuptools_scm
+urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
